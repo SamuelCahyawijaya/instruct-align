@@ -1,6 +1,8 @@
 # Instruct-Align: High-and-Low Resource Language Alignment via Continual Crosslingual Instruction Tuning
 InstructAlign is a continual crosslingual instruction tuning framework that allows the model to align high-to-low resource languages through instruction tuning.
 
+> :warning: **This is a development repo, for the release version please check [HLTCHKUST/InstructAlign repo](https://github.com/HLTCHKUST/InstructAlign)!**
+
 ### Overview
 Large language models (LLMs) that are tuned with instructions have demonstrated remarkable capabilities in various tasks and languages. However, their ability to generalize to underrepresented languages is limited due to the scarcity of available data. Additionally, directly adapting new languages to instruction-tuned LLMs can result in catastrophic forgetting, which leads to the loss of multitasking ability. To address this issue, we propose InstructAlign that uses continual crosslingual instruction-tuning to enable LLMs to align new unseen languages with the previously learned high-resource languages. Our results demonstrate the effectiveness of InstructAlign in enabling the model to understand low-resource languages with limited parallel data while preventing catastrophic forgetting. Our work contributes to the advancement of language adaptation methods, particularly for adapting underrepresented languages to instruction-tuned LLMs.
 
