@@ -1,0 +1,48 @@
+model,lang,pct
+BLOOM,English,0.3004
+BLOOM,Chinese,0.1617
+BLOOM,French,0.1290
+BLOOM,Spanish,0.1085
+BLOOM,Code,0.1082
+BLOOM,Portuguese,0.0491
+BLOOM,Others,0.1431
+Falcon,English,0.5820
+Falcon,Russian,0.0732
+Falcon,German,0.0390
+Falcon,Japanese,0.0389
+Falcon,Spanish,0.0378
+Falcon,Chinese,0.0372
+Falcon,French,0.0313
+Falcon,Others,0.1607
+LLaMA-2,English,0.8970
+LLaMA-2,German,0.0017
+LLaMA-2,French,0.0016
+LLaMA-2,Chinese,0.0013
+LLaMA-2,Spanish,0.0013
+LLaMA-2,Russian,0.0013
+LLaMA-2,Japanese,0.0010
+LLaMA-2,Others,0.0948
+PALM,English,0.7798
+PALM,German,0.0350
+PALM,French,0.0325
+PALM,Spanish,0.0211
+PALM,Russian,0.0053
+PALM,Japanese,0.0038
+PALM,Chinese,0.0040
+PALM,Others,0.1184
+mT5,English,0.4360
+mT5,Russian,0.1137
+mT5,Spanish,0.0691
+mT5,German,0.0554
+mT5,French,0.0507
+mT5,Japanese,0.0262
+mT5,Chinese,0.0062
+mT5,Others,0.2427
+mT5 Rescaled,English,0.0567
+mT5 Rescaled,Russian,0.0371
+mT5 Rescaled,Spanish,0.0309
+mT5 Rescaled,German,0.0305
+mT5 Rescaled,French,0.0289
+mT5 Rescaled,Japanese,0.0192
+mT5 Rescaled,Chinese,0.0167
+mT5 Rescaled,Others,0.7800
